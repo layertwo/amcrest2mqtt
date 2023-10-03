@@ -19,7 +19,7 @@ setup(
         "amcrest==1.9.7",
         "paho-mqtt==1.6.1",
         "python-slugify==7.0.0",
-        "urllib3==1.26.13",
+        "urllib3==1.26.17",
         "requests==2.28.1",
     ],
 )
